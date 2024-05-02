@@ -1,5 +1,5 @@
 let handler = async (m, { conn, command, text, usedPrefix, participants }) => {
-    if (!text) throw "*مـنـشـن لــلشــخــص الـذي تـريـد مـعـرفة نـسـبـة انــحــرافـه !*"
+    if (!text) throw "*⏎┇مـنـشـن الــشـخص الـذي تـريـد مـعـرفة نـسـبـة انــحــرافـه ! ┇☞*"
     const mentionedUser = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : args[2] ? (args[2].replace(/[@ .+-]/g, '') + '@s.whatsapp.net') : ''
  const userChar = [
      "1%",
