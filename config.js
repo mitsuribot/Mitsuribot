@@ -20,9 +20,9 @@ global.APIKeys = { // Apikey : 42x5rO7o \\
 
 // Sticker WM
 global.ownername = 'Akira'
-global.botname = 'نــيــزوكــو بــوت'
+global.botname = 'مـــيـــتــــســـوري بــوت'
 global.premium = 'false'
-global.packname = 'نــيــزوكــو بــوت'
+global.packname = 'مـــيـــتــــســـوري بــوت'
 global.author = '201559321760 >> اكـــيــــرا'
 
 
